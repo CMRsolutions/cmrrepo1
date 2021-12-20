@@ -1,4 +1,4 @@
 Hello world
 Hi All
 
-Updated content
+deleted content
